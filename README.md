@@ -1,5 +1,5 @@
 <h1>¡Hola! 👋</h1>
-<p>Mi nombre es Nicolas Agudelo Martinez y actualmente estoy estudiando Ingenieria de sistemas con el proposito de convertirme en un gran desarrollador de codigo. :technologist:</p>
+<p>Mi nombre es Nicolas Agudelo Martinez. Actualmente estoy estudiando Ingenieria de sistemas, mi proposito dentro de la carrera es adquirir un conocimiento competente para ser un gran desarrollador de codigo. :technologist:</p>
 <h2>Sobre mi</h2>
 <ul>
   <li>Soy de Colombia.</li>
